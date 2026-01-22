@@ -18,7 +18,7 @@ When you accept the GitHub Classroom assignment:
 - Use future templates as REFERENCE MATERIAL
 - Only use a template as a "fresh start" if you've fallen behind
 
-See `STUDENT-WORKFLOW.md` in the templates folder for the full guide.
+See the **"How This Course Works"** section in the [w00-git-intro README](https://github.com/WCTC-Net-Database/w00-git-intro) for the full guide.
 
 ---
 
