@@ -73,7 +73,7 @@ Before starting, ensure you have:
 
 **What to do:**
 - Read character data from `input.csv`
-- Parse each line to extract Name, Class, Level, HP
+- Parse each line to extract Name, Profession, Level, HP
 - Display all characters in a formatted list
 
 **Example:**
@@ -82,14 +82,14 @@ string[] lines = File.ReadAllLines("input.csv");
 foreach (string line in lines)
 {
     string[] parts = line.Split(',');
-    Console.WriteLine($"Name: {parts[0]}, Class: {parts[1]}, Level: {parts[2]}");
+    Console.WriteLine($"Name: {parts[0]}, Profession: {parts[1]}, Level: {parts[2]}");
 }
 ```
 
 ### Task 3: Implement Add Character
 
 **What to do:**
-- Prompt the user for character details (Name, Class, Level, HP)
+- Prompt the user for character details (Name, Profession, Level, HP)
 - Format as a CSV line
 - Append to the existing file
 

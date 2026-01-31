@@ -84,7 +84,7 @@ class Program
     /// 3. Split each line by comma to get individual fields
     /// 4. Display the character information in a readable format
     ///
-    /// CSV Format: Name,Class,Level,HP,Equipment
+    /// CSV Format: Name,Profession,Level,HP,Equipment
     /// Example: John,Fighter,1,10,sword|shield|potion
     /// </summary>
     static void DisplayAllCharacters()
