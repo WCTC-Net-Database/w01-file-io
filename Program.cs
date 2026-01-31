@@ -12,7 +12,7 @@
 class Program
 {
     // The path to our data file - we'll read and write character data here
-    static string filePath = "input.csv";
+    static string filePath = "Files/input.csv";
 
     static void Main()
     {
