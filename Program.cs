@@ -1,3 +1,5 @@
+namespace W01;
+
 /// <summary>
 /// Week 1: File I/O Basics - Console RPG Character Manager
 ///
